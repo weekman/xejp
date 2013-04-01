@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a test file.
 Another change in the file.
+=======
+This is a test file.
+>>>>>>> 4a49e81ec5d22d89111e244412f2c66bf29123f0
