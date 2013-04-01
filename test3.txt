@@ -1,2 +1,3 @@
 Some text
 Added text
+Line 3 added
